@@ -2,6 +2,10 @@
 Cross platform library for simple key-value storage (dictionaries) in C99
 
 [![Build Status](https://travis-ci.org/phtdacosta/dict-utils.svg?branch=master)](https://travis-ci.org/phtdacosta/dict-utils)
+[![Build status](https://ci.appveyor.com/api/projects/status/pqoyfmhavnm53aur?svg=true)](https://ci.appveyor.com/project/phtdacosta/dict-utils)
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/phtdacosta/dict-utils.svg)](http://isitmaintained.com/project/phtdacosta/dict-utils "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/phtdacosta/dict-utils.svg)](http://isitmaintained.com/project/phtdacosta/dict-utils "Percentage of issues still open")
+[![Misosu integration status](https://img.shields.io/badge/misosu-ready-brightgreen.svg)](https://github.com/phtdacosta/misosu "Misosu integration status")
 
 ### Overview:
 * Since the C programming language does not offer native support to such useful high level data structures as dictionaries, creating a library that could cover the subject in a grammatically acceptable way was just a matter of time. Without major deep optimizations, the algorithm is currently performing very well.
